@@ -1,0 +1,45 @@
+*{margin: 0;
+    padding: 0;}
+.one{ 
+     text-align:center;
+    
+}   
+.two{
+    text-align: center;
+    position:absolute;
+    bottom: 300px;
+    right: 43%;
+}
+.three{width: 80%;
+    text-align:justify;
+    position: absolute;
+ top: 600px;
+left: 120px;
+}
+.four{text-align: center;
+    position: absolute;
+    top: 1600px;
+    right: 43%;
+}
+.five{
+    text-align:justify;
+    position: absolute;
+    top: 1500px;px ;
+    right: 30%;
+    
+}
+.six{ 
+    text-align: center;
+    position: absolute;
+    bottom: 400px;
+    right:37%;
+    
+    
+}
+    
+
+
+    
+
+    
+
